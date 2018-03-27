@@ -1,0 +1,24 @@
+h1 {
+	font-size: 75px;
+	color: rgb(255, 255, 255);
+}
+body {
+	background-color:  rgb(8, 130, 206);
+	cursor: crosshair;
+}
+p { 
+	font-size: 30px;
+	color: rgb(255, 255, 255);
+}
+h2 {
+	font-size: 45px;
+	color: rgb(0, 0, 0);
+}
+ul {
+	font-size: 35px;
+	color: rgb(255, 255, 255);
+}
+a {
+	color: white;
+}
+
